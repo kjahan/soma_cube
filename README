@@ -1,0 +1,9 @@
+Soma Cube Puzzle
+================
+
+General description: 
+This is an implementation for 7-pieces Soma Cube solver in Java.
+
+Implementation period: Oct 2008.
+
+This is a backtracking search program developed for finding all possible solutions for 7-pieces Soma Cube. This was done as one of assignments for my Algortihm Analysis course in 2008.
